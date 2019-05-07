@@ -13,5 +13,6 @@ A brief overview:
 
 1. Dataprep_v1.R contains all of the data preparation, recoding, and cleaning
 2. Analysis_v1.R contains all of the code for statistical modeling, table preparation, and figure creation
+3. power calculation for interaction.R contains simulation code for a power calculation
 
 Please email Joe Rigdon at jrigdon@stanford.edu if you have any questions.  
