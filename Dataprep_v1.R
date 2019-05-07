@@ -5,10 +5,6 @@ library(Gmisc)
 #Sys.setenv("JAVA_HOME"="")
 #library(ReporteRs)
 
-##Connect to server first
-U: jrigdon2
-P: iSMRg%4k
-
 #Load code and libraries
 source("/Users/jrigdon/Box Sync/Rigdon/Useful Functions/Tables.R")
 source("/Users/jrigdon/Box Sync/Rigdon/Useful Functions/Figures.R")
